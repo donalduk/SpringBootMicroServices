@@ -29,7 +29,7 @@ import org.slf4j.LoggerFactory;
 
 
 /**
- * the controller class doc
+ * the controller class doc xxxx
  */
 @Controller
 public class PlantPlacesController {
